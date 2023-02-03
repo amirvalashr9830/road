@@ -1,3 +1,4 @@
 {
-  "config" : "vless://975aee36-e9c9-4502-a7f3-2fa4e2a09daa@78.46.213.136:80?type=tcp&security=none#mehrdad"
+  "germany" : "vless://975aee36-e9c9-4502-a7f3-2fa4e2a09daa@78.46.213.136:80?type=tcp&security=none#mehrdad",
+  "usa"     : "vless://a3a8c9c7-07f3-4b3b-9644-5e2d1da76819@107.173.209.239:55865?type=tcp&security=none#Roadlux"
 }
